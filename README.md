@@ -1,2 +1,2 @@
 # Base-editor-screening
-These meterials are for the selection of sgRNAs containing Cs in the editing window. gene_info_coding.csv and gene_info_noncoding.csv are obtained according to our previous work (https://doi.org/10.1038/s41467-018-04899-x).  
+These meterials are for the selection of sgRNAs containing Cs in the editing window. The files gene_info_coding.csv and gene_info_noncoding.csv, obtained from our previous work (https://doi.org/10.1038/s41467-018-04899-x), contain sgRNAs for the entire genome. the output files data_coding_aid.xlsx and data_noncoding_aid.xlsx contain sgRNAs with Cs in -14 ~ -19 for the whole genome. Users can further select the sgRNAs targeting desired genes.
